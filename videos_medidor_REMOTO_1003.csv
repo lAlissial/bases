@@ -1,0 +1,7 @@
+name,type,number_of_displays,position_of_displays,random_crop_max,path,video_length,lighting_conditions,extra_notes
+1003_1.mp4,TRAINING,1,"D1 (118, 200) (394, 281)",4, Mostrador_Remoto-1003/1003_1.mp4,00:00:49,NORMAL,
+1003_2.mp4,TRAINING,1,"D1 (121, 205) (398, 288)",4, Mostrador_Remoto-1003/1003_2.mp4,00:00:37,NORMAL,
+1004.mp4,TRAINING,1,"D1 (544, 569) (1018, 717)",4,Mostrador_Remoto-1003/1004.mp4,00:47:20,NORMAL, SemComunic_ e_boot_ao_final
+Mostrador_1.mp4,TRAINING,1,"D1 (598, 663) (1094, 818)",4,Mostrador_Remoto-1003/Mostrador_1.mp4,00:49:21,CLARO,
+Mostrador_2.mp4,TRAINING,1,"D1 (599, 664) (1095, 817)",4,Mostrador_Remoto-1003/Mostrador_2.mp4,00:53:13,NORMAL,
+Mostrador_4.mp4,TRAINING,1,"D1 (546, 571) (1024, 724)",2,Mostrador_Remoto-1003/Mostrador_4.mp4,00:47:21,NORMAL,"Video torto, o recorte pegou um pouco do nome me cima do displa"
