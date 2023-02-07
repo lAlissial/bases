@@ -1,0 +1,14 @@
+name,type,number_of_displays,position_of_displays,random_crop_max,path,video_length,lighting_conditions,extra_notes
+REMOTO_1_D1_2022-11-16.mp4,TRAINING,1,"D1 (118, 200) (394, 281)",4, Mostrador_Remoto-1003/REMOTO_1_D1_2022-11-16.mp4,00:00:49,NORMAL,
+REMOTO_2_D1_2022-11-16.mp4,TRAINING,1,"D1 (121, 205) (398, 288)",4, Mostrador_Remoto-1003/REMOTO_2_D1_2022-11-16.mp4,00:00:37,NORMAL,
+REMOTO_3_D1_2022-11-23.mp4,TRAINING,1,"D1 (544, 569) (1018, 717)",4,Mostrador_Remoto-1003/REMOTO_3_D1_2022-11-23.mp4,00:47:20,NORMAL, SemComunic_ e_boot_ao_final
+REMOTO_4_D1_2022-11-28.mp4,TRAINING,1,"D1 (598, 663) (1094, 818)",4,Mostrador_Remoto-1003/REMOTO_4_D1_2022-11-28.mp4,00:49:21,CLARO,
+REMOTO_5_D1_2022-11-28.mp4,TRAINING,1,"D1 (599, 664) (1095, 817)",4,Mostrador_Remoto-1003/REMOTO_5_D1_2022-11-28.mp4,00:53:13,NORMAL,
+REMOTO_7_D1_2022-11-28.mp4,TRAINING,1,"D1 (546, 571) (1024, 724)",2,Mostrador_Remoto-1003/REMOTO_7_D1_2022-11-28.mp4,00:47:21,NORMAL,"Video torto, o recorte pegou um pouco do nome me cima do displa"
+REMOTO_6_D1_2023-01-23.mp4,TRAINING,1,"D1 (610, 665) (1085, 810)",4,Mostrador_Remoto-1003/REMOTO_6_D1_2023-01-23.mp4,00:25:03,CLARO,
+REMOTO_8_D1_2022-11-16.mp4,TEST,1,"D1 (118, 209) (368, 287)",2,Mostrador_Remoto-1003/Videos_so_para_testes/REMOTO_8_D1_2022-11-16.mp4,00:00:42,NORMAL,
+REMOTO_9_D1_2022-11-23.mp4,TEST,1,"D1 (548, 566) (1013, 707)",2,Mostrador_Remoto-1003/Videos_so_para_testes/REMOTO_9_D1_2022-11-23.mp4,00:12:03,NORMAL,
+REMOTO_10_D1_2023-01-30.mp4,TRAINING,1,"D1 (486, 387) (881, 508)",4,Mostrador_Remoto-1003/REMOTO_10_D1_2023-01-30.mp4,00:58:37,NORMAL,
+REMOTO_11_D1_2023-01-30.mp4,TRAINING,1,"D1 (750, 445) (1106, 555)",4,Mostrador_Remoto-1003/REMOTO_11_D1_2023-01-30.mp4,00:49:38,NORMAL,
+REMOTO_12_D1_2023-01-30.mp4,TEST,1,"D1 (550, 378) (789, 446)",2,Mostrador_Remoto-1003/Videos_so_para_testes/REMOTO_12_D1_2023-01-30.mp4,00:04:18,NORMAL,
+REMOTO_13_D1_2023-01-30.mp4,TEST,1,"D1 (750, 447) (1106, 554)",4,Mostrador_Remoto-1003/Videos_so_para_testes/REMOTO_13_D1_2023-01-30.mp4,00:07:56,NORMAL,
